@@ -1,3 +1,5 @@
+[Back to homepage](https://mhassan206.github.io/reading-notes/)
+
 # Class03
 ## Revisions and the Cloud.
 Revisions and the Cloud is when used with Git and signifies remote servers where repositories are stored, providing accessibility, collaboration also its easy way to collaborate ato save and backups.
@@ -30,4 +32,6 @@ Uploading local commits to a remote repository, updating the repository's histor
 - putting your code into action for users to use.
 ## WHAT IS ACP IN GIT ?
   ACP stand for "Add, Commit, Push." It's a common workflow that developers use to update their code on a Git repository, This ACP cycle helps keep your codebase organized and facilitates collaboration within a team.
+  
+[Back to homepage](https://mhassan206.github.io/reading-notes/)
   
