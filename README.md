@@ -3,3 +3,4 @@ Class 103 Reading Notes
 
 taking note command line terminal
 
+im making changes
