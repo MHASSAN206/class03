@@ -37,5 +37,4 @@ Uploading local commits to a remote repository, updating the repository's histor
   ACP stand for "Add, Commit, Push." It's a common workflow that developers use to update their code on a Git repository, This ACP cycle helps keep your codebase organized and facilitates collaboration within a team.
   
 [Back to homepage](https://mhassan206.github.io/reading-notes/)
-  
->>>>>>> 7c46ad21a58d30dd03817ce6a20de577a9138131
+
